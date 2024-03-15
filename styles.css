@@ -1,0 +1,91 @@
+@font-face {
+    font-family: "retro";
+    src: url(IMG/RETROTECH.ttf);
+}
+
+body{
+    background-image: url(IMG/fondoretro.jpg);
+    background-size:cover;
+
+
+    
+}
+.titulo{
+    font-family: "retro";
+    color: white;
+    font-size: 52px;
+    text-align: center;
+    border-radius: 5px solid black;
+
+    
+    
+}
+.marcador{
+    font-family: "retro";
+    background-color: black;
+    border: 5px solid black;
+    
+
+}
+.letrasRojas{
+    color: red;
+    font-size: 40px;
+
+}
+.letrasBlancas{
+    color: white;
+    font-size: 32;
+    margin-top: 50px;
+}
+
+.tabla{
+    border: 5px groove color(srgb 237 175 5);
+
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    padding: 50px;
+}
+caption{
+    caption-side: top;
+}
+tr td{
+
+    background-color: rgb(62, 59, 59);
+    width: 40px;
+    height: 40px;
+    /* border: 5px groove grey; */
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.bgcolor{
+    background-color: black;
+
+}
+.grisOscuro{
+    background-color: rgb(62, 59, 59);;
+}
+.rojo{
+    background-color: rgb(239, 5, 5);;
+}
+.azul{
+    background-color: blue;
+}
+.violeta{
+    background-color: violet;
+}
+.verde{
+    background-color: green;
+}
+
+
+div{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    width: 500px;
+
+}
+
