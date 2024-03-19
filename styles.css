@@ -40,12 +40,15 @@ body{
 
 .tabla{
     border: 5px groove color(srgb 237 175 5);
-
     width: 800px;
     height: 500px;
     margin: auto;
     padding: 50px;
 }
+.tabla dos{
+
+}
+
 caption{
     caption-side: top;
 }
